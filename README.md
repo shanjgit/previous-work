@@ -1,2 +1,2 @@
 # previous-work
-* A reposite containing all my previous online-course assignments.
+* A repository containing all my previous online-course exercises/assignments.
